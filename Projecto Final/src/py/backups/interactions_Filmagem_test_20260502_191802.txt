@@ -1,0 +1,322 @@
+Backup for user: Filmagem_test
+Timestamp: 20260502_191802
+========================================
+
+User: Gabriel
+Time: 2026-05-02T11:40:33.835160
+Quote: You're welcome.
+Character: N/A
+Source: N/A
+----------------------------------------
+User: Gabriel
+Time: 2026-05-02T11:49:21.266050
+Quote: You're welcome.
+Character: Rocket
+Source: Guardians of the Galaxy Vol. 1
+----------------------------------------
+User: Gabriel
+Time: 2026-05-02T11:51:18.458858
+Quote: Help me, Obi-Wan Kenobi. You're my only hope.
+Character: Princess Leia
+Source: Star Wars Episode IV: A New Hope
+----------------------------------------
+User: Gabriel 2
+Time: 2026-05-02T11:55:27.947754
+Quote: I've got a bad feeling about this.
+Character: Han Solo
+Source: Star Wars Whole franchise
+----------------------------------------
+User: Gabriel 3
+Time: 2026-05-02T11:57:52.203570
+Quote: I find your lack of faith disturbing.
+Character: Darth Vader
+Source: Star Wars
+----------------------------------------
+User: Debug_test_01
+Time: 2026-05-02T17:13:48.990723
+Quote: I see through the lies of the Jedi.
+Character: Anakin Skywalker
+Source: Star Wars: Episode III: Revenge of the Sith
+----------------------------------------
+User: Debug_test_02
+Time: 2026-05-02T17:18:03.910054
+Quote: We are Groot.
+Character: All Guardians
+Source: Guardians of the Galaxy Vol. 2
+----------------------------------------
+User: Debug_test_03
+Time: 2026-05-02T17:37:44.648000
+Quote: You shall not pass!
+Character: N/A
+Source: N/A
+----------------------------------------
+User: Debug_test_04
+Time: 2026-05-02T17:45:47.795018
+Quote: I am your father.
+Character: N/A
+Source: N/A
+----------------------------------------
+User: Debug_test_001
+Time: 2026-05-02T17:58:54.667105
+Quote: I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.
+Character: Frodo & Gandalf
+Source: The Lord of the Rings: The Fellowship of the Ring
+----------------------------------------
+User: Debug_test_002
+Time: 2026-05-02T18:01:00.199055
+Quote: Do or do not. There is no try.
+Character: Yoda
+Source: Star Wars Episode V: The Empire Strikes Back
+----------------------------------------
+User: Gabriel
+Time: 2026-05-02T18:09:32.442910
+Quote: All we have to decide is what to do with the time that is given us.
+Character: Gandalf
+Source: The Lord of the Rings: The Fellowship of the Ring
+----------------------------------------
+User: Gabriel
+Time: 2026-05-02T18:09:35.803512
+Quote: I find your lack of faith disturbing.
+Character: Darth Vader
+Source: Star Wars
+----------------------------------------
+User: debuged_local_01
+Time: 2026-05-02T18:12:33.442035
+Quote: I find your lack of faith disturbing.
+Character: Darth Vader
+Source: Star Wars
+----------------------------------------
+User: debuged_local_01
+Time: 2026-05-02T18:12:35.794350
+Quote: A wizard is never late, nor is he early. He arrives precisely when he means to.
+Character: Gandalf
+Source: The Lord of the Rings: The Fellowship of the Ring
+----------------------------------------
+User: debuged_local_01
+Time: 2026-05-02T18:12:37.033188
+Quote: You're welcome.
+Character: Rocket
+Source: Guardians of the Galaxy Vol. 1
+----------------------------------------
+User: debuged_local_01
+Time: 2026-05-02T18:12:38.758399
+Quote: I've got a plan.
+Character: Star-Lord
+Source: Guardians of the Galaxy Vol. 1
+----------------------------------------
+User: debuged_local_01
+Time: 2026-05-02T18:12:40.111324
+Quote: I am Groot.
+Character: Groot
+Source: Guardians of the Galaxy Vol. 1
+----------------------------------------
+User: debuged_local_01
+Time: 2026-05-02T18:12:41.124905
+Quote: Help me, Obi-Wan Kenobi. You're my only hope.
+Character: Princess Leia
+Source: Star Wars Episode IV: A New Hope
+----------------------------------------
+User: debuged_local_01
+Time: 2026-05-02T18:12:42.951975
+Quote: Awesome mix vol. 1.
+Character: Star-Lord
+Source: Guardians of the Galaxy Vol. 1
+----------------------------------------
+User: Gabriel Silva
+Time: 2026-05-02T18:27:16.865373
+Quote: I've got a bad feeling about this.
+Character: Han Solo
+Source: Star Wars Whole franchise
+----------------------------------------
+User: Gabriel Silva
+Time: 2026-05-02T18:27:19.922103
+Quote: May the Force be with you.
+Character: Various
+Source: Star Wars Whole franchise
+----------------------------------------
+User: Gabriel Silva
+Time: 2026-05-02T18:27:20.864242
+Quote: I am the only child of my parents. I was born because my mother and father met, and I... I am grateful for that.
+Character: Star-Lord
+Source: Guardians of the Galaxy Vol. 1
+----------------------------------------
+User: Test_backup_01
+Time: 2026-05-02T18:34:43.813695
+Quote: We are Groot.
+Character: All Guardians
+Source: Guardians of the Galaxy Vol. 2
+----------------------------------------
+User: Test_backup_01
+Time: 2026-05-02T18:34:46.682829
+Quote: Help me, Obi-Wan Kenobi. You're my only hope.
+Character: Princess Leia
+Source: Star Wars Episode IV: A New Hope
+----------------------------------------
+User: Test_backup_01
+Time: 2026-05-02T18:34:47.963252
+Quote: You're welcome.
+Character: Rocket
+Source: Guardians of the Galaxy Vol. 1
+----------------------------------------
+User: Test_backup_01
+Time: 2026-05-02T18:34:49.026813
+Quote: I am Groot.
+Character: Groot
+Source: Guardians of the Galaxy Vol. 1
+----------------------------------------
+User: Test_backup_02
+Time: 2026-05-02T18:34:57.777060
+Quote: All we have to decide is what to do with the time that is given us.
+Character: Gandalf
+Source: The Lord of the Rings: The Fellowship of the Ring
+----------------------------------------
+User: Test_backup_02
+Time: 2026-05-02T18:34:59.191852
+Quote: I've got a plan.
+Character: Star-Lord
+Source: Guardians of the Galaxy Vol. 1
+----------------------------------------
+User: Test_backup_02
+Time: 2026-05-02T18:34:59.813302
+Quote: The Force is strong with this one.
+Character: Darth Vader
+Source: Star Wars Episode IV: A New Hope
+----------------------------------------
+User: Test_backup_03
+Time: 2026-05-02T18:41:08.686298
+Quote: My precious.
+Character: Gollum
+Source: The Lord of the Rings Whole franchise
+----------------------------------------
+User: Test_backup_03
+Time: 2026-05-02T18:41:10.451708
+Quote: I am your father.
+Character: Darth Vader
+Source: Star Wars Episode V: The Empire Strikes Back
+----------------------------------------
+User: Test_backup_03
+Time: 2026-05-02T18:41:11.217122
+Quote: Fly, you fools!
+Character: Gandalf
+Source: The Lord of the Rings: The Fellowship of the Ring
+----------------------------------------
+User: Test_backup_04
+Time: 2026-05-02T18:41:21.475099
+Quote: Do or do not. There is no try.
+Character: Yoda
+Source: Star Wars Episode V: The Empire Strikes Back
+----------------------------------------
+User: Test_backup_001
+Time: 2026-05-02T18:49:44.306272
+Quote: One does not simply walk into Mordor.
+Character: Boromir
+Source: The Lord of the Rings: The Fellowship of the Ring
+----------------------------------------
+User: Test_backup_001
+Time: 2026-05-02T18:49:46.135915
+Quote: One does not simply walk into Mordor.
+Character: Boromir
+Source: The Lord of the Rings: The Fellowship of the Ring
+----------------------------------------
+User: Test_backup_001
+Time: 2026-05-02T18:49:47.166605
+Quote: We are Groot.
+Character: All Guardians
+Source: Guardians of the Galaxy Vol. 2
+----------------------------------------
+User: Test_backup_002
+Time: 2026-05-02T18:50:02.208137
+Quote: I've got a bad feeling about this.
+Character: Han Solo
+Source: Star Wars Whole franchise
+----------------------------------------
+User: Test_backup_002
+Time: 2026-05-02T18:50:02.925883
+Quote: Awesome mix vol. 1.
+Character: Star-Lord
+Source: Guardians of the Galaxy Vol. 1
+----------------------------------------
+User: Test_backip_003
+Time: 2026-05-02T18:51:58.302136
+Quote: We are Groot.
+Character: All Guardians
+Source: Guardians of the Galaxy Vol. 2
+----------------------------------------
+User: Test_backup_004
+Time: 2026-05-02T18:52:32.102858
+Quote: Help me, Obi-Wan Kenobi. You're my only hope.
+Character: Princess Leia
+Source: Star Wars Episode IV: A New Hope
+----------------------------------------
+User: Test_backup_004
+Time: 2026-05-02T18:52:38.545581
+Quote: You shall not pass!
+Character: Gandalf
+Source: The Lord of the Rings: The Fellowship of the Ring
+----------------------------------------
+User: Test_backup_004
+Time: 2026-05-02T18:52:39.110320
+Quote: I am your father.
+Character: Darth Vader
+Source: Star Wars Episode V: The Empire Strikes Back
+----------------------------------------
+User: Final_UAT_test_001
+Time: 2026-05-02T18:57:44.116006
+Quote: The Force is strong with this one.
+Character: Darth Vader
+Source: Star Wars Episode IV: A New Hope
+----------------------------------------
+User: Final_UAT_test_001
+Time: 2026-05-02T18:57:47.185094
+Quote: You shall not pass!
+Character: Gandalf
+Source: The Lord of the Rings: The Fellowship of the Ring
+----------------------------------------
+User: Final_UAT_test_001
+Time: 2026-05-02T18:57:48.274431
+Quote: I find your lack of faith disturbing.
+Character: Darth Vader
+Source: Star Wars
+----------------------------------------
+User: Filmagem_test
+Time: 2026-05-02T19:13:49.606655
+Quote: You're welcome.
+Character: Rocket
+Source: Guardians of the Galaxy Vol. 1
+----------------------------------------
+User: Filmagem_test
+Time: 2026-05-02T19:17:16.225482
+Quote: Fly, you fools!
+Character: Gandalf
+Source: The Lord of the Rings: The Fellowship of the Ring
+----------------------------------------
+User: Filmagem_test
+Time: 2026-05-02T19:17:17.861634
+Quote: Fly, you fools!
+Character: Gandalf
+Source: The Lord of the Rings: The Fellowship of the Ring
+----------------------------------------
+User: Filmagem_test
+Time: 2026-05-02T19:17:20.354396
+Quote: Fly, you fools!
+Character: Gandalf
+Source: The Lord of the Rings: The Fellowship of the Ring
+----------------------------------------
+User: Filmagem_test
+Time: 2026-05-02T19:17:26.623581
+Quote: Fear leads to anger, anger leads to hate, hate leads to suffering.
+Character: Yoda
+Source: Star Wars Episode I: The Phantom Menace
+----------------------------------------
+User: Filmagem_test
+Time: 2026-05-02T19:17:30.535375
+Quote: May the Force be with you.
+Character: Various
+Source: Star Wars Whole franchise
+----------------------------------------
+User: Filmagem_test
+Time: 2026-05-02T19:17:31.722346
+Quote: I've got a bad feeling about this.
+Character: Han Solo
+Source: Star Wars Whole franchise
+----------------------------------------

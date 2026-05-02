@@ -360,5 +360,77 @@
     "character": "Darth Vader",
     "source": "Star Wars",
     "timestamp": "2026-05-02T18:57:48.274431"
+  },
+  {
+    "name": "Filmagem_test",
+    "action": "quote_viewed",
+    "quote": "You're welcome.",
+    "character": "Rocket",
+    "source": "Guardians of the Galaxy Vol. 1",
+    "timestamp": "2026-05-02T19:13:49.606655"
+  },
+  {
+    "name": "Filmagem_test",
+    "action": "quote_viewed",
+    "quote": "Fly, you fools!",
+    "character": "Gandalf",
+    "source": "The Lord of the Rings: The Fellowship of the Ring",
+    "timestamp": "2026-05-02T19:17:16.225482"
+  },
+  {
+    "name": "Filmagem_test",
+    "action": "quote_viewed",
+    "quote": "Fly, you fools!",
+    "character": "Gandalf",
+    "source": "The Lord of the Rings: The Fellowship of the Ring",
+    "timestamp": "2026-05-02T19:17:17.861634"
+  },
+  {
+    "name": "Filmagem_test",
+    "action": "quote_viewed",
+    "quote": "Fly, you fools!",
+    "character": "Gandalf",
+    "source": "The Lord of the Rings: The Fellowship of the Ring",
+    "timestamp": "2026-05-02T19:17:20.354396"
+  },
+  {
+    "name": "Filmagem_test",
+    "action": "quote_viewed",
+    "quote": "Fear leads to anger, anger leads to hate, hate leads to suffering.",
+    "character": "Yoda",
+    "source": "Star Wars Episode I: The Phantom Menace",
+    "timestamp": "2026-05-02T19:17:26.623581"
+  },
+  {
+    "name": "Filmagem_test",
+    "action": "quote_viewed",
+    "quote": "May the Force be with you.",
+    "character": "Various",
+    "source": "Star Wars Whole franchise",
+    "timestamp": "2026-05-02T19:17:30.535375"
+  },
+  {
+    "name": "Filmagem_test",
+    "action": "quote_viewed",
+    "quote": "I've got a bad feeling about this.",
+    "character": "Han Solo",
+    "source": "Star Wars Whole franchise",
+    "timestamp": "2026-05-02T19:17:31.722346"
+  },
+  {
+    "name": "Filmagem_Test_02",
+    "action": "quote_viewed",
+    "quote": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
+    "character": "Frodo & Gandalf",
+    "source": "The Lord of the Rings: The Fellowship of the Ring",
+    "timestamp": "2026-05-02T19:18:39.367319"
+  },
+  {
+    "name": "Filmagem_Test_02",
+    "action": "quote_viewed",
+    "quote": "I am Groot.",
+    "character": "Groot",
+    "source": "Guardians of the Galaxy Vol. 1",
+    "timestamp": "2026-05-02T19:18:41.897343"
   }
 ]
