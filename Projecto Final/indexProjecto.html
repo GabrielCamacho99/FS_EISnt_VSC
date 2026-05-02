@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Projecto Final</title>
+    <link rel="stylesheet" href="./src/css/reset.css">
+    <link rel="stylesheet" href="./src/css/stylingProjecto.css">
+    <link rel="stylesheet" href="./src/css/responsiveProjecto.css">
+    <style></style>
+  </head>
+  <body>
+    <header>
+      <h1>Projecto Final</h1>
+      
+    </header>
+    <main>
+        <section id="assistant">
+            <h2>Movie Quote Assistant</h2>
+            <p>Discover amazing quotes from your favorite franchises!</p>
+  
+            <div id="userForm">
+                <label for="userName">What's your name?</label>
+                <input type="text" id="userName" placeholder="Enter your name" />
+                <button id="submitBtn" type="button">Start</button>
+            </div>
+
+            <div id="quoteSection" style="display: none;">
+                <div id="quoteCard">
+                    <p id="quoteText"></p>
+                    <p id="characterText"></p>
+                    <p id="sourceText"></p>
+                </div>
+                <button id="nextBtn" type="button">Get Another Quote</button>
+                <p id="interactionCount"></p>
+            </div>
+        </section>
+
+        <section id="history">
+            <h2>Interaction History</h2>
+            <p>View all user interactions and quotes viewed.</p>
+            <button id="viewHistoryBtn">View Log</button>
+            <div id="historyContent" style="display: none;">
+                <div id="historyList"></div>
+            </div>
+        </section>
+    </main>
+    <footer>
+      <p>&copy; 2026 Projecto Final | Gabriel Silva</p>
+    </footer>
+    <script src="./src/js/projectoFinal.js"></script>
+  </body>
+</html>

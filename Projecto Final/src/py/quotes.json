@@ -1,0 +1,140 @@
+[
+  {
+    "id": "1",
+    "quote": "May the Force be with you.",
+    "character": "Various",
+    "source": "Star Wars Whole franchise"
+  },
+  {
+    "id": "2",
+    "quote": "Fear leads to anger, anger leads to hate, hate leads to suffering.",
+    "character": "Yoda",
+    "source": "Star Wars Episode I: The Phantom Menace"
+  },
+  {
+    "id": "3",
+    "quote": "I see through the lies of the Jedi.",
+    "character": "Anakin Skywalker",
+    "source": "Star Wars: Episode III: Revenge of the Sith"
+  },
+  {
+    "id": "4",
+    "quote": "I find your lack of faith disturbing.",
+    "character": "Darth Vader",
+    "source": "Star Wars"
+  },
+  {
+    "id": "5",
+    "quote": "You shall not pass!",
+    "character": "Gandalf",
+    "source": "The Lord of the Rings: The Fellowship of the Ring"
+  },
+  {
+    "id": "6",
+    "quote": "I am Groot.",
+    "character": "Groot",
+    "source": "Guardians of the Galaxy Vol. 1"
+  },
+  {
+    "id": "7",
+    "quote": "Do or do not. There is no try.",
+    "character": "Yoda",
+    "source": "Star Wars Episode V: The Empire Strikes Back"
+  },
+  {
+    "id": "8",
+    "quote": "I am your father.",
+    "character": "Darth Vader",
+    "source": "Star Wars Episode V: The Empire Strikes Back"
+  },
+  {
+    "id": "9",
+    "quote": "Help me, Obi-Wan Kenobi. You're my only hope.",
+    "character": "Princess Leia",
+    "source": "Star Wars Episode IV: A New Hope"
+  },
+  {
+    "id": "10",
+    "quote": "The Force is strong with this one.",
+    "character": "Darth Vader",
+    "source": "Star Wars Episode IV: A New Hope"
+  },
+  {
+    "id": "11",
+    "quote": "I've got a bad feeling about this.",
+    "character": "Han Solo",
+    "source": "Star Wars Whole franchise"
+  },
+  {
+    "id": "12",
+    "quote": "All we have to decide is what to do with the time that is given us.",
+    "character": "Gandalf",
+    "source": "The Lord of the Rings: The Fellowship of the Ring"
+  },
+  {
+    "id": "13",
+    "quote": "A wizard is never late, nor is he early. He arrives precisely when he means to.",
+    "character": "Gandalf",
+    "source": "The Lord of the Rings: The Fellowship of the Ring"
+  },
+  {
+    "id": "14",
+    "quote": "One does not simply walk into Mordor.",
+    "character": "Boromir",
+    "source": "The Lord of the Rings: The Fellowship of the Ring"
+  },
+  {
+    "id": "15",
+    "quote": "My precious.",
+    "character": "Gollum",
+    "source": "The Lord of the Rings Whole franchise"
+  },
+  {
+    "id": "16",
+    "quote": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
+    "character": "Frodo & Gandalf",
+    "source": "The Lord of the Rings: The Fellowship of the Ring"
+  },
+  {
+    "id": "17",
+    "quote": "Fly, you fools!",
+    "character": "Gandalf",
+    "source": "The Lord of the Rings: The Fellowship of the Ring"
+  },
+  {
+    "id": "18",
+    "quote": "I am the only child of my parents. I was born because my mother and father met, and I... I am grateful for that.",
+    "character": "Star-Lord",
+    "source": "Guardians of the Galaxy Vol. 1"
+  },
+  {
+    "id": "19",
+    "quote": "Come and get your love.",
+    "character": "Star-Lord",
+    "source": "Guardians of the Galaxy Vol. 1"
+  },
+  {
+    "id": "20",
+    "quote": "Awesome mix vol. 1.",
+    "character": "Star-Lord",
+    "source": "Guardians of the Galaxy Vol. 1"
+  },
+  {
+    "id": "21",
+    "quote": "We are Groot.",
+    "character": "All Guardians",
+    "source": "Guardians of the Galaxy Vol. 2"
+  },
+  {
+    "id": "22",
+    "quote": "I've got a plan.",
+    "character": "Star-Lord",
+    "source": "Guardians of the Galaxy Vol. 1"
+  },
+  {
+    "id": "23",
+    "quote": "You're welcome.",
+    "character": "Rocket",
+    "source": "Guardians of the Galaxy Vol. 1"
+  }
+]

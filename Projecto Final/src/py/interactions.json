@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Gabriel",
+    "action": "quote_viewed",
+    "quote": "You're welcome.",
+    "timestamp": "2026-05-02T11:40:33.835160"
+  },
+  {
+    "name": "Gabriel",
+    "action": "quote_viewed",
+    "quote": "You're welcome.",
+    "character": "Rocket",
+    "source": "Guardians of the Galaxy Vol. 1",
+    "timestamp": "2026-05-02T11:49:21.266050"
+  },
+  {
+    "name": "Gabriel",
+    "action": "quote_viewed",
+    "quote": "Help me, Obi-Wan Kenobi. You're my only hope.",
+    "character": "Princess Leia",
+    "source": "Star Wars Episode IV: A New Hope",
+    "timestamp": "2026-05-02T11:51:18.458858"
+  },
+  {
+    "name": "Gabriel 2",
+    "action": "quote_viewed",
+    "quote": "I've got a bad feeling about this.",
+    "character": "Han Solo",
+    "source": "Star Wars Whole franchise",
+    "timestamp": "2026-05-02T11:55:27.947754"
+  },
+  {
+    "name": "Gabriel 3",
+    "action": "quote_viewed",
+    "quote": "I find your lack of faith disturbing.",
+    "character": "Darth Vader",
+    "source": "Star Wars",
+    "timestamp": "2026-05-02T11:57:52.203570"
+  },
+  {
+    "name": "Debug_test_01",
+    "action": "quote_viewed",
+    "quote": "I see through the lies of the Jedi.",
+    "character": "Anakin Skywalker",
+    "source": "Star Wars: Episode III: Revenge of the Sith",
+    "timestamp": "2026-05-02T17:13:48.990723"
+  },
+  {
+    "name": "Debug_test_02",
+    "action": "quote_viewed",
+    "quote": "We are Groot.",
+    "character": "All Guardians",
+    "source": "Guardians of the Galaxy Vol. 2",
+    "timestamp": "2026-05-02T17:18:03.910054"
+  },
+  {
+    "name": "Debug_test_03",
+    "action": "quote_viewed",
+    "quote": "You shall not pass!",
+    "timestamp": "2026-05-02T17:37:44.648000"
+  },
+  {
+    "name": "Debug_test_04",
+    "action": "quote_viewed",
+    "quote": "I am your father.",
+    "timestamp": "2026-05-02T17:45:47.795018"
+  },
+  {
+    "name": "Debug_test_001",
+    "action": "quote_viewed",
+    "quote": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
+    "character": "Frodo & Gandalf",
+    "source": "The Lord of the Rings: The Fellowship of the Ring",
+    "timestamp": "2026-05-02T17:58:54.667105"
+  },
+  {
+    "name": "Debug_test_002",
+    "action": "quote_viewed",
+    "quote": "Do or do not. There is no try.",
+    "character": "Yoda",
+    "source": "Star Wars Episode V: The Empire Strikes Back",
+    "timestamp": "2026-05-02T18:01:00.199055"
+  },
+  {
+    "name": "Gabriel",
+    "action": "quote_viewed",
+    "quote": "All we have to decide is what to do with the time that is given us.",
+    "character": "Gandalf",
+    "source": "The Lord of the Rings: The Fellowship of the Ring",
+    "timestamp": "2026-05-02T18:09:32.442910"
+  },
+  {
+    "name": "Gabriel",
+    "action": "quote_viewed",
+    "quote": "I find your lack of faith disturbing.",
+    "character": "Darth Vader",
+    "source": "Star Wars",
+    "timestamp": "2026-05-02T18:09:35.803512"
+  },
+  {
+    "name": "debuged_local_01",
+    "action": "quote_viewed",
+    "quote": "I find your lack of faith disturbing.",
+    "character": "Darth Vader",
+    "source": "Star Wars",
+    "timestamp": "2026-05-02T18:12:33.442035"
+  },
+  {
+    "name": "debuged_local_01",
+    "action": "quote_viewed",
+    "quote": "A wizard is never late, nor is he early. He arrives precisely when he means to.",
+    "character": "Gandalf",
+    "source": "The Lord of the Rings: The Fellowship of the Ring",
+    "timestamp": "2026-05-02T18:12:35.794350"
+  },
+  {
+    "name": "debuged_local_01",
+    "action": "quote_viewed",
+    "quote": "You're welcome.",
+    "character": "Rocket",
+    "source": "Guardians of the Galaxy Vol. 1",
+    "timestamp": "2026-05-02T18:12:37.033188"
+  },
+  {
+    "name": "debuged_local_01",
+    "action": "quote_viewed",
+    "quote": "I've got a plan.",
+    "character": "Star-Lord",
+    "source": "Guardians of the Galaxy Vol. 1",
+    "timestamp": "2026-05-02T18:12:38.758399"
+  },
+  {
+    "name": "debuged_local_01",
+    "action": "quote_viewed",
+    "quote": "I am Groot.",
+    "character": "Groot",
+    "source": "Guardians of the Galaxy Vol. 1",
+    "timestamp": "2026-05-02T18:12:40.111324"
+  },
+  {
+    "name": "debuged_local_01",
+    "action": "quote_viewed",
+    "quote": "Help me, Obi-Wan Kenobi. You're my only hope.",
+    "character": "Princess Leia",
+    "source": "Star Wars Episode IV: A New Hope",
+    "timestamp": "2026-05-02T18:12:41.124905"
+  },
+  {
+    "name": "debuged_local_01",
+    "action": "quote_viewed",
+    "quote": "Awesome mix vol. 1.",
+    "character": "Star-Lord",
+    "source": "Guardians of the Galaxy Vol. 1",
+    "timestamp": "2026-05-02T18:12:42.951975"
+  }
+]
