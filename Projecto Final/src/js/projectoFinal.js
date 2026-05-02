@@ -33,6 +33,7 @@ function handleUserSubmit(event) {
   // Store the name
   currentUserName = name;
   
+  
   // Hide form, show quote section
   userForm.style.display = 'none';
   quoteSection.style.display = 'block';
@@ -103,3 +104,49 @@ submitBtn.addEventListener('click', handleUserSubmit);
 
 // When user clicks "Get Another Quote" button
 nextBtn.addEventListener('click', fetchQuote);
+
+// When user clicks "View History" button
+viewHistoryBtn.addEventListener('click', function(){
+    if (historyContent.style.display === 'block') {
+        historyContent.style.display = 'none';
+        viewHistoryBtn.textContent = 'View Log';
+        return;
+    }
+
+    fetch('http://localhost:5000/api/interactions')
+        .then(response => response.json())
+        .then(interactions => {
+            // Clear the history list
+            historyList.innerHTML = '';
+
+            if (interactions.length === 0) {
+                historyList.innerHTML = '<p>No interactions logged yet.</p>';
+            } else {
+                interactions.forEach(entry => {
+                    const div = document.createElement('div');
+                    div.className = 'history-entry';
+                    div.innerHTML = `
+                        <p><strong>${entry.name}</strong> ${entry.timestamp}:</p>
+                        <p>"${entry.quote}"</p>
+                        <p>— ${entry.character} | (${entry.source})</p>
+                    `;
+                    historyList.appendChild(div);
+                });
+            }
+            historyContent.style.display = 'block';
+            viewHistoryBtn.textContent = 'Hide Log';
+        })
+        .catch(error => {
+            console.error('Error fetching interactions:', error);
+            historyList.innerHTML = '<p>Error loading interaction history.</p>';
+            historyContent.style.display = 'block';
+        });       
+});
+
+window.addEventListener('beforeunload', function() {
+    if (currentUserName !== '') {
+        navigator.sendBeacon('http://localhost:5000/api/backup',
+            JSON.stringify({ name: currentUserName })
+        );
+    }
+});

@@ -152,5 +152,213 @@
     "character": "Star-Lord",
     "source": "Guardians of the Galaxy Vol. 1",
     "timestamp": "2026-05-02T18:12:42.951975"
+  },
+  {
+    "name": "Gabriel Silva",
+    "action": "quote_viewed",
+    "quote": "I've got a bad feeling about this.",
+    "character": "Han Solo",
+    "source": "Star Wars Whole franchise",
+    "timestamp": "2026-05-02T18:27:16.865373"
+  },
+  {
+    "name": "Gabriel Silva",
+    "action": "quote_viewed",
+    "quote": "May the Force be with you.",
+    "character": "Various",
+    "source": "Star Wars Whole franchise",
+    "timestamp": "2026-05-02T18:27:19.922103"
+  },
+  {
+    "name": "Gabriel Silva",
+    "action": "quote_viewed",
+    "quote": "I am the only child of my parents. I was born because my mother and father met, and I... I am grateful for that.",
+    "character": "Star-Lord",
+    "source": "Guardians of the Galaxy Vol. 1",
+    "timestamp": "2026-05-02T18:27:20.864242"
+  },
+  {
+    "name": "Test_backup_01",
+    "action": "quote_viewed",
+    "quote": "We are Groot.",
+    "character": "All Guardians",
+    "source": "Guardians of the Galaxy Vol. 2",
+    "timestamp": "2026-05-02T18:34:43.813695"
+  },
+  {
+    "name": "Test_backup_01",
+    "action": "quote_viewed",
+    "quote": "Help me, Obi-Wan Kenobi. You're my only hope.",
+    "character": "Princess Leia",
+    "source": "Star Wars Episode IV: A New Hope",
+    "timestamp": "2026-05-02T18:34:46.682829"
+  },
+  {
+    "name": "Test_backup_01",
+    "action": "quote_viewed",
+    "quote": "You're welcome.",
+    "character": "Rocket",
+    "source": "Guardians of the Galaxy Vol. 1",
+    "timestamp": "2026-05-02T18:34:47.963252"
+  },
+  {
+    "name": "Test_backup_01",
+    "action": "quote_viewed",
+    "quote": "I am Groot.",
+    "character": "Groot",
+    "source": "Guardians of the Galaxy Vol. 1",
+    "timestamp": "2026-05-02T18:34:49.026813"
+  },
+  {
+    "name": "Test_backup_02",
+    "action": "quote_viewed",
+    "quote": "All we have to decide is what to do with the time that is given us.",
+    "character": "Gandalf",
+    "source": "The Lord of the Rings: The Fellowship of the Ring",
+    "timestamp": "2026-05-02T18:34:57.777060"
+  },
+  {
+    "name": "Test_backup_02",
+    "action": "quote_viewed",
+    "quote": "I've got a plan.",
+    "character": "Star-Lord",
+    "source": "Guardians of the Galaxy Vol. 1",
+    "timestamp": "2026-05-02T18:34:59.191852"
+  },
+  {
+    "name": "Test_backup_02",
+    "action": "quote_viewed",
+    "quote": "The Force is strong with this one.",
+    "character": "Darth Vader",
+    "source": "Star Wars Episode IV: A New Hope",
+    "timestamp": "2026-05-02T18:34:59.813302"
+  },
+  {
+    "name": "Test_backup_03",
+    "action": "quote_viewed",
+    "quote": "My precious.",
+    "character": "Gollum",
+    "source": "The Lord of the Rings Whole franchise",
+    "timestamp": "2026-05-02T18:41:08.686298"
+  },
+  {
+    "name": "Test_backup_03",
+    "action": "quote_viewed",
+    "quote": "I am your father.",
+    "character": "Darth Vader",
+    "source": "Star Wars Episode V: The Empire Strikes Back",
+    "timestamp": "2026-05-02T18:41:10.451708"
+  },
+  {
+    "name": "Test_backup_03",
+    "action": "quote_viewed",
+    "quote": "Fly, you fools!",
+    "character": "Gandalf",
+    "source": "The Lord of the Rings: The Fellowship of the Ring",
+    "timestamp": "2026-05-02T18:41:11.217122"
+  },
+  {
+    "name": "Test_backup_04",
+    "action": "quote_viewed",
+    "quote": "Do or do not. There is no try.",
+    "character": "Yoda",
+    "source": "Star Wars Episode V: The Empire Strikes Back",
+    "timestamp": "2026-05-02T18:41:21.475099"
+  },
+  {
+    "name": "Test_backup_001",
+    "action": "quote_viewed",
+    "quote": "One does not simply walk into Mordor.",
+    "character": "Boromir",
+    "source": "The Lord of the Rings: The Fellowship of the Ring",
+    "timestamp": "2026-05-02T18:49:44.306272"
+  },
+  {
+    "name": "Test_backup_001",
+    "action": "quote_viewed",
+    "quote": "One does not simply walk into Mordor.",
+    "character": "Boromir",
+    "source": "The Lord of the Rings: The Fellowship of the Ring",
+    "timestamp": "2026-05-02T18:49:46.135915"
+  },
+  {
+    "name": "Test_backup_001",
+    "action": "quote_viewed",
+    "quote": "We are Groot.",
+    "character": "All Guardians",
+    "source": "Guardians of the Galaxy Vol. 2",
+    "timestamp": "2026-05-02T18:49:47.166605"
+  },
+  {
+    "name": "Test_backup_002",
+    "action": "quote_viewed",
+    "quote": "I've got a bad feeling about this.",
+    "character": "Han Solo",
+    "source": "Star Wars Whole franchise",
+    "timestamp": "2026-05-02T18:50:02.208137"
+  },
+  {
+    "name": "Test_backup_002",
+    "action": "quote_viewed",
+    "quote": "Awesome mix vol. 1.",
+    "character": "Star-Lord",
+    "source": "Guardians of the Galaxy Vol. 1",
+    "timestamp": "2026-05-02T18:50:02.925883"
+  },
+  {
+    "name": "Test_backip_003",
+    "action": "quote_viewed",
+    "quote": "We are Groot.",
+    "character": "All Guardians",
+    "source": "Guardians of the Galaxy Vol. 2",
+    "timestamp": "2026-05-02T18:51:58.302136"
+  },
+  {
+    "name": "Test_backup_004",
+    "action": "quote_viewed",
+    "quote": "Help me, Obi-Wan Kenobi. You're my only hope.",
+    "character": "Princess Leia",
+    "source": "Star Wars Episode IV: A New Hope",
+    "timestamp": "2026-05-02T18:52:32.102858"
+  },
+  {
+    "name": "Test_backup_004",
+    "action": "quote_viewed",
+    "quote": "You shall not pass!",
+    "character": "Gandalf",
+    "source": "The Lord of the Rings: The Fellowship of the Ring",
+    "timestamp": "2026-05-02T18:52:38.545581"
+  },
+  {
+    "name": "Test_backup_004",
+    "action": "quote_viewed",
+    "quote": "I am your father.",
+    "character": "Darth Vader",
+    "source": "Star Wars Episode V: The Empire Strikes Back",
+    "timestamp": "2026-05-02T18:52:39.110320"
+  },
+  {
+    "name": "Final_UAT_test_001",
+    "action": "quote_viewed",
+    "quote": "The Force is strong with this one.",
+    "character": "Darth Vader",
+    "source": "Star Wars Episode IV: A New Hope",
+    "timestamp": "2026-05-02T18:57:44.116006"
+  },
+  {
+    "name": "Final_UAT_test_001",
+    "action": "quote_viewed",
+    "quote": "You shall not pass!",
+    "character": "Gandalf",
+    "source": "The Lord of the Rings: The Fellowship of the Ring",
+    "timestamp": "2026-05-02T18:57:47.185094"
+  },
+  {
+    "name": "Final_UAT_test_001",
+    "action": "quote_viewed",
+    "quote": "I find your lack of faith disturbing.",
+    "character": "Darth Vader",
+    "source": "Star Wars",
+    "timestamp": "2026-05-02T18:57:48.274431"
   }
 ]
