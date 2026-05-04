@@ -432,5 +432,61 @@
     "character": "Groot",
     "source": "Guardians of the Galaxy Vol. 1",
     "timestamp": "2026-05-02T19:18:41.897343"
+  },
+  {
+    "name": "Giovanna",
+    "action": "quote_viewed",
+    "quote": "I've got a plan.",
+    "character": "Star-Lord",
+    "source": "Guardians of the Galaxy Vol. 1",
+    "timestamp": "2026-05-04T23:23:04.840255"
+  },
+  {
+    "name": "Giovanna",
+    "action": "quote_viewed",
+    "quote": "One does not simply walk into Mordor.",
+    "character": "Boromir",
+    "source": "The Lord of the Rings: The Fellowship of the Ring",
+    "timestamp": "2026-05-04T23:38:39.079695"
+  },
+  {
+    "name": "Giovanna e Gabriel",
+    "action": "quote_viewed",
+    "quote": "You shall not pass!",
+    "character": "Gandalf",
+    "source": "The Lord of the Rings: The Fellowship of the Ring",
+    "timestamp": "2026-05-04T23:40:44.831261"
+  },
+  {
+    "name": "Giovanna e Gabriel",
+    "action": "quote_viewed",
+    "quote": "My precious.",
+    "character": "Gollum",
+    "source": "The Lord of the Rings Whole franchise",
+    "timestamp": "2026-05-04T23:41:05.785838"
+  },
+  {
+    "name": "Giovanna e Gabriel",
+    "action": "quote_viewed",
+    "quote": "Awesome mix vol. 1.",
+    "character": "Star-Lord",
+    "source": "Guardians of the Galaxy Vol. 1",
+    "timestamp": "2026-05-04T23:41:06.406251"
+  },
+  {
+    "name": "Giovanna e Gabriel",
+    "action": "quote_viewed",
+    "quote": "Come and get your love.",
+    "character": "Star-Lord",
+    "source": "Guardians of the Galaxy Vol. 1",
+    "timestamp": "2026-05-04T23:41:07.060217"
+  },
+  {
+    "name": "Giovanna e Gabriel",
+    "action": "quote_viewed",
+    "quote": "I see through the lies of the Jedi.",
+    "character": "Anakin Skywalker",
+    "source": "Star Wars: Episode III: Revenge of the Sith",
+    "timestamp": "2026-05-04T23:41:10.496057"
   }
 ]
